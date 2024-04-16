@@ -1,5 +1,14 @@
 ﻿#If ignorance is bliss, then somebody knock the smile off my face
 
+# ENVIRONMENT
+.DS_Store
+Thumbs.db
+$RECYCLE.BIN/
+.idea/
+*.iml
+*.ipr
+*.iws
+
 *.csproj.user
 *.suo
 *.cache
